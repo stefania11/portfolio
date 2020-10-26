@@ -6,6 +6,8 @@ description: Materials for courses you taught. Replace this text with your descr
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+INFO 350 (UW) - Fall 2020
+INFO 300 (UW) - Fall 2019
+Creative Learning with AI (Rosso Arts) - Summer 2019
+Smart Toys Design(RISD) - Spring 2019
+Smart Toys Design(ITP) - Spring 2019
