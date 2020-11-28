@@ -38,27 +38,26 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: stefania11
 twitter_username: Stefania_druga
-linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+linkedin_username: drugastefania
+scholar_userid: TCutnEMAAAAJ
 orcid_id: # your ORCID ID
-medium_username: # your Medium username
+medium_username: Stefania_druga
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
-blogger_url: # your blogger URL
+blogger_url:
 
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: UA-26713306-1 # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Blog  # your blog must have a name for it to show up in the nav bar
+blog_name:   # your blog must have a name for it to show up in the nav bar
 blog_description:
-redirect: https://medium.com/@Stefania_druga
 
 # Pagination
 pagination:
