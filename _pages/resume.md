@@ -6,6 +6,7 @@ description:
 nav: true
 ---
 
+ ✉ st3f@uw.edu ✆ +1 (415) 503-8944 🔗 [http://drugastefania.com/](http://drugastefania.com/)
 
 ### Qualifications summary
 * Research on AI literacy for families.
