@@ -6,139 +6,129 @@ description:
 nav: true
 ---
 
-## Education
-***
-**Research Associate**(2011-2012)
-INTERDISCIPLINARY RESEARCH CENTER PARIS-DESCARTES
-Participated as a reasearch associate in a project that applied machine
-learning algorithms for interdisciplinary online educational programs.
-The proposal was validated by an international commite of researchers
-and involved collaborating with an international team of data scientists.
 
-**M.A. Instructional Design**(2008-2010)
-TECHNICAL UNIVERSITY OF LISBON, UNIVERSITY OF POITIERS, UNED
-Specialized in the field of information, communication technology and
-instructional design. Studied in 3 European universities during 2 years
-the master spread out over and worked on several external media
-engineering group projects such as designing an delivering a proposal
-for a bilingual platform for deaf children and creating learning objects
-and story boards for the French National Center of Distance Learning.
+### Qualifications summary
+* Research on AI literacy for families.
+* Extensive experience in building programming platforms for children.
+* Teaching classes about creative learning and prototyping with AI.
 
-**B.A. Public Relations**(2005-2008)
-POLITEHNIC UNIVERSITY OF TIMISOARA
-Courses included introduction to organizational public relations, advanced
-public speaking, interpersonal communications. During my studies I ran
-several national and international events such as “Semaine de la mobilité”
-(Mobility week). I also created an agreement between my university and
-the French University of Limoges which allowed me to do a self-directed
-research project in France.
+### Active Projects
+* [Cognimates](https://github.com/hackidemia/cognimates-gui) : Live at [cognimates.me](http://cognimates.me)
+    - AI education platform for children to train their own machine learning models.
+    - Users can also code smart games using their custom models.
+* [AI Literacy Playground](https://github.com/hackidemia/coraland) : Live at [http://ailiteracy.me/](http://ailiteracy.me/)
+    - Playground for AI explainability allowing users to classify custom datasets.
+    - Users may also identify anchors in the images to help algorithms best understand them.
+* [TileCode](http://github.com/microsoft/TileCode) : Live at [https://microsoft.github.io/tilecode/](https://microsoft.github.io/tilecode/)
+    - TileCode is an app for designing, coding, and playing video games directly on low-cost arcade gaming handhelds.
+    - Our starting point are retro video games to be created via a set of visual rules.
 
 
-## Experience
-***
-**MIT MediaLab Berlin, Creative AI Track Lead**(2018)
-Designed and ran the machine learning for creative AI track, selected 10 participants from 300 applications. Organized a series of lectures, talks, and site­visits to partner organizations. Mentored students on their projects, documented and published final results.
-[http://berlin.media.mit.edu](http://berlin.media.mit.edu)
+### Education
 
-**Girls Who Code, Computer Science Lead Teacher**(2016)
-Taught computer science to a group of 30 senior high­school students for 3 months as part of the Girls Who Code Immersion Summer Program and managed 2 teaching assistants.
+ Degree | Major | Institution | Graduation Year | GPA
+:--:|:--:|:--:|:--:|:--:
+Ph.D­ Information School | Informatics | University of Washington | 2023 | 3.9/4
+Master of Science | Media Arts and Science | Massachusetts Institute of Technology | 2018 | 5/5
+Master of Science | Instructional Design, | Technical University of Lisbon, Poitiers University, UNED Madrid | 2008 | 5/5
+Bachelor of Communication | Public Relations &amp; Communication | Polytechnic University of Timisoara | 2005 | 5/5
 
-**Samsung Research , R&D Specialist**(2016)
-Proposed new IoT communication protocols for low powered WiFi sensors and implemented a series of prototypes for detecting water leaks at scale by measuring pipes vibration. This lead to a commercial product (Lotik) which is still being developed by Samsung.
+ &nbsp;
+### Graduate Courses Taken
+* [Machine Learning Fairness](https://courses.cs.washington.edu/courses/cse599m/20wi/)
+* [Data Management and Data Science](https://courses.cs.washington.edu/courses/csed514/18wi/)
+* [Prototyping Interactive Devices with AI](https://github.com/jonfroehlich/CSE599Au2019)
+* [How to make almost anything](http://fab.cba.mit.edu/classes/863.16/section.CBA/people/Druga/index.html)
+* [Design Internet Research](https://wiki.communitydata.science/Internet_Research_Methods_(Winter_2020))
+* [Culture Learning and Development](https://myplan.uw.edu/course/#/courses/EDPSY503)
+* [Computer-Supported Collaborative Learning](https://ischool.uw.edu/programs/phd/curriculum/special-topics)
 
-**MakerCamp Director**(2014)
-In the summer of 2014 I initiated and ran a maker camp in Berlin with
-15 international participants. The goal was to design and build a
-protyping laboratory from a shipping container and to use it for creating
-an IoT project. The camp lasted one month and had 10 tracks and 20 mentors.
-[makercamp.co](makercamp.co)
+### Professional Experience
+* Creative AI Track Lead, MIT MediaLab Berlin, Berlin, Germany (Jun. 2018 – Jul. 2018)
+    - Designed and ran the machine learning for creative AI track, selected 10 participants from 300 applications.
+    - Organized a series of lectures, talks, and site­visits to partner organizations.
+    - Mentored students on their projects, documented and published final results.
+    - `http://berlin.media.mit.edu`
+* Co-founder, HacKIDemia, Global (Jan. 2012 – Nov. 2020)
+    - Overseeing HacKIDemia, a global organization for children STEM education.
+    - We are designing a 21st century curriculum by using latest technologies and scientific inventions.
+    - We trained local teams i n 40 countries with 600 mentors and 10.000 children involved to date.
+    - `https://hackidemia.com`
+* Computer Science Lead Teacher, Girls Who Code, U.S.A (Jun. 2016 – Sep. 2016)
+    - Taught computer science to a group of 30 senior high­school students for 3 months as part of the Girls Who Code Program
+    - Managed two teaching assistants and creatived curriculum for the hardware and robotics modules.
+    - `https://girlswhocode.com/`
+* R&amp;D Specialist, Samsung research, U.S.A (Jan. 2016 – Jun. 2016)
+    - Proposed new IoT communication protocols for low powered WiFi sensors.
+    - Implemented a series of prototypes for detecting water leaks at scale by measuring pipes vibration.
+    - This lead to a commercial product (Lotik) which is still being developed by Samsung.
+    - `https://samsungnext.com/`
+* Director, Maker Camp, China, Germany (Jan. 2014 – Jan. 2016)
+    - Initiated the first maker camp in Berlin and Shenzhen with 15 global participants.
+    - We used only upcycled materials and tools to build the first makerspace in a shipping container in Europe and China.
+    - Each camp ran for one month, had 10 tracks, 20 mentors.oposed new IoT communication protocols for low powered WiFi sensors.
+    - `https://makercampberlin.tumblr.com`
+* Founder, Afrimakers, Africa (Jan. 2014 – Jan. 2016)
+    - Created Afrimakers in partnership with 8 African tech­hubs in Egypt, Kenya, Tanzania, Rwanda, Zambia, Botswana, Ghana, Nigeria.
+    - This initiative enables local makers to use digital fabrication for solving local challenges like access to clean water, energy, education.
+    - `https://afrimakers.org`
+* Education Advisor, Singularity University, U.S.A (Apr. 2012 – Sept. 2012)
+    - Curated the education track for 80 students from 36 countries and conducted a series of prototyping workshops.
+    - Initiated coaching sessions and site­visits to pioneering ed­tech organizations like Khan Academy, Udacity, Gooru.
+    - `https://singularityu.org`
+* Volunteer Teacher, Catholic University of Peru, Cambodia (Jan. 2012 – Apr. 2012)
+    - As part of a voluntary mission I was teaching 100 children how to use computers and new technologies.
+    - Within 2 months I have acquired 3000 € in donations and created a computer lab for the children.
+    - You can find out more here: teachingcambodia.blogspot.com.
+    - `https://kkev­cambodia.org`
+* SQE Associate, Google, Ireland (Sept. 2010 – Jun. 2011)
+    - Helped defend Google's index against web­spam and collected data for search algorithm design.
+    - Worked with the internal education team to improve the new hires training.
+    - `https://google.com`
+* ToT Trainer, Catholic University of Peru, Peru (Jan. 2008 – Apr. 2008)
+    - Instructed 40 Peruvian primary school teachers in the use of information and communication technology.
+    - Conducted a final evaluation which showed that 80% of the teachers were using the new tools.
+    - `http://www.pucp.edu.pe`
 
-**Afrimakers Founder**(2014)
-In the beginning of 2014 I initiated a digital fabrication training in 10 African
-countries. The project was crowdfunded on Indiegogo and enabled us to
-provide tools and materials, training and fellowships to all participating teams
-of students . The project is currently run by local teams that are continuing to
-train new students and create prototypes that can solve local challenges like
-access to electricity, clean water, digital technology. The fellows were also
-invited to showcase their work in regional and international events.
-[afrimakers.org](afrimakers.org)
+### Research Experience
+* Summer Intern, Microsoft Research (June 2020 – Sep. 2020)
+    - Conducted an longitudinal study with 17 families for 5 weeks evaluating a new programming platform for kids.
+    - Analyzed and communicated findings in company wide presentations and public webinars
+    - `https://cri­paris.org/`
+* Research Associate, CRI (Mar. 2011 – Jan. 2012)
+    - Participated as a research associate in a project that applied machine learning algorithms for interdisciplinary online educational programs.
+    - The proposal was validated by an international committee of researchers and involved collaborating with an international team of data scientists
+    - `https://www.microsoft.com/en-us/research/project/microsoft-tilecode/`
+* ICT Researcher, Open University UNIT (Jan 2009 – May. 200)
+    - Conducted a study for the French Ministry of Education on the use of digital resources in 20 universities and engineering schools.
+    - The study was published by UNIT and is now an industry standard guide in the participating universities.
+    - `http://www.unit.eu/`
 
-**HacKIDemia Founder** (2012-present)
-Three years ago I co-founded HacKIDemia, a global organization where
-we design and organize hands-on STEM workshops for children (7-16).
-The goals is to propose a new learning model focused on personalized
-hands-on learning. So far we trained 10.000 children and 600 mentors.
-[hackidemia.com](hackidemia.com)
+### Teaching Experience
+* [Designing Smart Toys at RISD](https://github.com/stefania11/DesignSmartToys)
+* [Hacking Smart Toys at ITP NYU](https://github.com/stefania11/HackingSmartToys)
+* [INFO 350 Information Ethics and Policy](http://www.washington.edu/students/crscat/info.html#info350)
+* [INFO 330 Research Methods](http://www.washington.edu/students/crscat/info.html#info300")
 
-**Education Advisor**(2012-2013)
-In 2012 I was the Education Advisor at Singularity University where I
-worked with 80 students from 36 countries and currated the education
-track. One of the teams I coached directly is still running as an ed-tech
-company providing personalized learning paths.[eddefy.com](eddefy.com)
+### Awards
+* LEGO Papert Fellow, MIT MediaLab, 2018
+* Finalist Ideas for Europe, EU competition, 2017
+* Top 100 Entrepreneur Eastern Europe, 2017
+* Women to Watch in Science, Women at the frontier, 2016
 
-**SQE Associate**(2010-2011)
-Helped defend Google's index against webspamn and colected data
-used for search algorithm design. Worked with the training team for
-improving the new comer training by making instructional videos
-and conceptual maps.
+### Service
+* Chair for IDC 2021 Conference - Work in Progress Track
+* Reviewer for CHI, IDC, CSCW, Fablearn from 2018-Present
+* Volunteer with Diversity Initiative supporting Bipoc graduate applicants
+* Member of the UW Computer Science Care Committee
 
-**ICT Researcher**(2009)
-Conducted a study for the French Ministry of Education on the use of
-digital resources in 20 universities and engineering schools. The study
-was published by UNIT and is now an industry standard guide in the
-participating French universities.
-
-**Tot Trainer**(2008)
-Instructed 40 Peruvian primary school teachers in the use of information and
-communication technology during a 4 months seminar. I devised and executed
-the final evaluation which showed that 80% of the teachers were using the new
-tools in their classrooms and 50% started coaching their colleagues.
-
-
-
----
-
-## Technical Experience
-
-**Web Development Immersive Student** (July 2015 - 2016)
-Applications build:
-
-\* __Makehub__ - Collaborative documentation platform  for hardware projects built on top of Github.
-* Responsive Express app  that transforms project pictures into JSON objects that can be forked via Github gists.  
-* Synthesized Angular stack and Bootstrap for the front-end
-* Allow users to login  with Github profile and created customized Google search
-www.makehub.eu
-
-\* __Soundfriend__ - Music sharing platform for an existing international community with 300 active content creators.
-*  Responsive Rails Application with customized template which enables user to share songs/videos from multiple sources (SoundCloud, Spotify, YouTube) and create playlists for specific genres.
-*  Conducted user research on existing community to prioritize features
-*  Analyzed existing music streaming platforms to identify current UX practices
-*  Connected to the SoundCloud API to create shareable and editable music playlists
-http://soundriend.herokuapp.com/
-
-\* __ProductTracker__ - Mapping and semantically analysing product reviews
-*  Analyse recent Amazon product reviews for location, sentiment with the Sentimental gem  
-*  Generated historical map of product reviews with SVG and Javascript
-*  Optimized response time by persisting and updating reviews in the database with cron
-*  Created a responsive experience for mobile using Bootstrap and Sass
-http://flatiron-product-tracker.herokuapp.com/
-
-\* __CosmosAscii__ - A command line implementation of Nasa Picture of the day
-*  Wrote wrapper for OSX Voice API to read image descriptions in a background task
-*  Renders the Nasa Picture of the Day in ASCII in the command line
-*  Merges selfie and daily image into a text based animation
-
----
-## Awards
+### Skills
+* **Research**: `AI Education` * `Family teachnology` * `Smart toys` * `Interaction Design for children`
+* **R&amp;D**: `CAD design` * `Embedded programming` * `Digital fabrication`
+* **Instructional Design**: `STEAM curriculum` * `Teacher training` * `Project-based teaching`
+* **Programming Languages**: `R` * `Ruby` * `Python` * `Javascript` * `HTML`
+* **Web Frameworks**: `React` * `Rails` * `Bootstrap`
+* **Databases**: `MySQL` * `PostgreSQL`
+* **Languages**: `Romanian` * `English` * `French` * `Spanish` * `Italian`
 
 
-## Programming languages
-
-| Language  | Level  |
-|  |  |
-| Ruby | +++++  |
-| HTML | ++++  |
-| CSS | ++++  |
-| Javascript      | +++ |
-| SQL       | ++++ |
-| C++     | ++ |
