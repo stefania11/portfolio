@@ -17,9 +17,9 @@ nav: true
 * [Cognimates](https://github.com/hackidemia/cognimates-gui) : Live at [cognimates.me](http://cognimates.me)
     - AI education platform for children to train their own machine learning models.
     - Users can also code smart games using their custom models.
-* [AI Literacy Playground](https://github.com/hackidemia/coraland) : Live at [http://ailiteracy.me/](http://ailiteracy.me/)
+* [AI Literacy Playground](https://github.com/hackidemia/coraland) : Live at [http://aiplayground.me/](http://aiplayground.me/)
     - Playground for AI explainability allowing users to classify custom datasets.
-    - Users may also identify anchors in the images to help algorithms best understand them.
+    - Users may also identify anchors in images to support algorithms interpretability.
 * [TileCode](http://github.com/microsoft/TileCode) : Live at [https://microsoft.github.io/tilecode/](https://microsoft.github.io/tilecode/)
     - TileCode is an app for designing, coding, and playing video games directly on low-cost arcade gaming handhelds.
     - Our starting point are retro video games to be created via a set of visual rules.
@@ -118,9 +118,9 @@ Bachelor of Communication | Public Relations &amp; Communication | Polytechnic U
 * Women to Watch in Science, Women at the frontier, 2016
 
 ### Service
-* Chair for IDC 2021 Conference - Work in Progress Track
+* Chair for [IDC 2021 Conference](https://idc.acm.org/2021/) - Work in Progress Track
 * Reviewer for CHI, IDC, CSCW, Fablearn from 2018-Present
-* Volunteer with Diversity Initiative supporting Bipoc graduate applicants
+* Volunteer with Diversity Initiative supporting BIPOC graduate applicants
 * Member of the UW Computer Science Care Committee
 
 ### Skills
