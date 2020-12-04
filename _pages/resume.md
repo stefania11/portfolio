@@ -119,7 +119,7 @@ Bachelor of Communication | Public Relations &amp; Communication | Polytechnic U
 
 ### Service
 * Chair for [IDC 2021 Conference](https://idc.acm.org/2021/) - Work in Progress Track
-* Reviewer for CHI, IDC, CSCW, Fablearn from 2018-Present
+* Reviewer for CHI, IDC, CSCW, Fablearn conferences from 2018-Present
 * Volunteer with [iSchool Diversity Initiative](https://ischool.uw.edu/diversity) supporting BIPOC graduate applicants
 * Member of the [UW Computer Science Care Committee](https://www.cs.washington.edu/students/grad/gsc/care-committee)
 
