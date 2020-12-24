@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Resume
+title: Stefania Druga
 permalink: /resume/
 description:
 nav: true
@@ -8,10 +8,20 @@ nav: true
 
  ✉ st3f@uw.edu ✆ +1 (415) 503-8944 🔗 [http://drugastefania.com/](http://drugastefania.com/)
 
-### Qualifications summary
+&nbsp;
+
+### Awards
+* [Jacobs Foundation Grant](https://ischool.uw.edu/news/2020/01/researchers-win-fellowship-study-new-frontier-tech-education) for AI Literacy project, 2020
+* [Weizenbaum Research Fellow](https://www.weizenbaum-institut.de/portrait/p/stefania-druga/) in Criticality of AI-based Systems Lab in Berlin, 2019
+* [Human in Residence Fellow](https://tisch.nyu.edu/itp/itp-people/faculty/somethings-in-residence-sirs), Google & NYU ITP, 2019.
+* [LEGO Papert Fellow](https://www.media.mit.edu/posts/meet-the-2017-lego-papert-fellows/), MIT MediaLab, 2018
+* [Finalist of Ideas for Europe competition](https://blogs.ec.europa.eu/promotingenterprise/the-10-most-inspiring-ideas-from-europe-have-been-chosen/), EU, 2017
+* [Women to Watch in Science](http://www.womenatthefrontier.org/wf-spotlight-stefania-druga/), Women at the frontier, 2016
+
+<!-- ### Qualifications summary
 * Research on AI literacy for families.
 * Extensive experience in building programming platforms for children.
-* Teaching classes about creative learning and prototyping with AI.
+* Teaching classes about creative learning and prototyping with AI. -->
 
 ### Active Projects
 * [Cognimates](https://github.com/hackidemia/cognimates-gui) : Live at [cognimates.me](http://cognimates.me)
@@ -23,7 +33,7 @@ nav: true
 * [TileCode](http://github.com/microsoft/TileCode) : Live at [https://microsoft.github.io/tilecode/](https://microsoft.github.io/tilecode/)
     - TileCode is an app for designing, coding, and playing video games directly on low-cost arcade gaming handhelds.
     - Our starting point are retro video games to be created via a set of visual rules.
-
+&nbsp;
 
 ### Education
 
@@ -34,7 +44,8 @@ Master of Science | Media Arts and Science | Massachusetts Institute of Technolo
 Master of Science | Instructional Design, | Technical University of Lisbon, Poitiers University, UNED Madrid | 2008 | 5/5
 Bachelor of Communication | Public Relations &amp; Communication | Polytechnic University of Timisoara | 2005 | 5/5
 
- &nbsp;
+&nbsp;
+
 ### Graduate Courses Taken
 * [Machine Learning Fairness](https://courses.cs.washington.edu/courses/cse599m/20wi/)
 * [Data Management and Data Science](https://courses.cs.washington.edu/courses/csed514/18wi/)
@@ -43,6 +54,7 @@ Bachelor of Communication | Public Relations &amp; Communication | Polytechnic U
 * [Design Internet Research](https://wiki.communitydata.science/Internet_Research_Methods_(Winter_2020))
 * [Culture Learning and Development](https://myplan.uw.edu/course/#/courses/EDPSY503)
 * [Computer-Supported Collaborative Learning](https://ischool.uw.edu/programs/phd/curriculum/special-topics)
+&nbsp;
 
 ### Professional Experience
 * Creative AI Track Lead, MIT MediaLab Berlin, Berlin, Germany (Jun. 2018 – Jul. 2018)
@@ -91,6 +103,7 @@ Bachelor of Communication | Public Relations &amp; Communication | Polytechnic U
     - Conducted a final evaluation which showed that 80% of the teachers were using the new tools.
     - `http://www.pucp.edu.pe`
 
+&nbsp;
 ### Research Experience
 * Summer Intern, Microsoft Research (June 2020 – Sep. 2020)
     - Conducted an longitudinal study with 17 families for 5 weeks evaluating a new programming platform for kids.
@@ -104,24 +117,57 @@ Bachelor of Communication | Public Relations &amp; Communication | Polytechnic U
     - Conducted a study for the French Ministry of Education on the use of digital resources in 20 universities and engineering schools.
     - The study was published by UNIT and is now an industry standard guide in the participating universities.
     - `http://www.unit.eu/`
+&nbsp;
 
 ### Teaching Experience
 * [Designing Smart Toys at RISD](https://github.com/stefania11/DesignSmartToys)
 * [Hacking Smart Toys at ITP NYU](https://github.com/stefania11/HackingSmartToys)
 * [INFO 350 Information Ethics and Policy](http://www.washington.edu/students/crscat/info.html#info350)
-* [INFO 330 Research Methods](http://www.washington.edu/students/crscat/info.html#info300")
+* [INFO 330 Research Methods](http://www.washington.edu/students/crscat/info.html#info300") 
 
-### Awards
-* LEGO Papert Fellow, MIT MediaLab, 2018
-* Finalist Ideas for Europe, EU competition, 2017
-* Top 100 Entrepreneur Eastern Europe, 2017
-* Women to Watch in Science, Women at the frontier, 2016
-
+ &nbsp;
+ &nbsp;
 ### Service
-* Chair for [IDC 2021 Conference](https://idc.acm.org/2021/) - Work in Progress Track
+* Chair for [IDC 2021 Conference](https://idc.acm.org/2021/)
 * Reviewer for CHI, IDC, CSCW, Fablearn conferences from 2018-Present
 * Volunteer with [iSchool Diversity Initiative](https://ischool.uw.edu/diversity) supporting BIPOC graduate applicants
 * Member of the [UW Computer Science Care Committee](https://www.cs.washington.edu/students/grad/gsc/care-committee)
+* Education Board member for Unesco MGIEP
+* AI Education Committee member for [Technovation](https://www.technovation.org/team/), organisation for international AI Education for families 
+* Board member for [AIDA](https://ai4da.com/who-we-are/meet-our-experts/), organisation using AI for social development 
+
+### Talks 
+* Webinar on [development of new coding platforms for children](https://note.microsoft.com/MSR-Webinar-TileCode-Registration-On-Demand.html?wt.mc_id=twitter_MSR-WBNR_post_v1) with Microsoft Research(2020)
+* Panel on future of [AI education with Unesco](https://mgiep.unesco.org/article/future-of-education-artificial-intelligence-and-social-and-emotional-learning)(2020)
+* Speaker at [Future of childhood Summit](https://joanganzcooneycenter.org/initiative/future-of-childhood-summit/) with Google and Sesame Workshop (2020)
+* Speaker at [Applied Machine Learning Days](https://appliedmldays.org/all-time-speakers/stefania-druga), EPFL (2020) 
+* Keynote at [Digital Summit for Teachers](https://www.youtube.com/watch?v=CCZ4btFMIJ0&ab_channel=K%C3%B6rber-Stiftung) organized by Korber Foundation (2019)
+* Speaker at Teachers Colledge [AI Education Conference](https://www.tc.columbia.edu/aiconference/)(2019)
+* Keynote at [Pydata Conference](https://www.youtube.com/watch?v=JJpY-5EPAF0&ab_channel=PyData)(2019)
+* Keynote at [Libre Learn Lab Conference](http://www.librelearnlab.org/conference/keynote-speakers)(2018)
+* Guest [Cognimates tutorial on the Coding Train](https://www.youtube.com/watch?v=kg2G26TWjY4&ab_channel=TheCodingTrain) (2018)
+
+### Press 
+* [UW researchers receive grant to explore childhood AI literacy](http://www.dailyuw.com/science/article_f5eac95a-5ffa-11ea-9ae2-fbc1f7840c87.html) for UW Daily (2020)
+* [How is AI upgrading playtime?](https://www.canvas8.com/content/2020/03/06/stefania-druga-thought-leader.html) for Canvas8 (2020)
+* [The Hard Fun of Designing Alternatives to Smart Toys](https://medium.com/ml5js/the-hard-fun-of-designing-alternatives-to-smart-toys-dd72da1c6de8) for Processing Foundation (2019)
+* [Where does AI fit in the classroom?](https://www.tc.columbia.edu/articles/2019/october/tools-are-just-objects/) for Teachers College Newsroom (2019)
+* [Will AI really transform education?](https://hechingerreport.org/will-ai-really-transform-education/) for Hechinger Report (2019)
+* [How children understand artificial intelligence](https://www.tellerreport.com/tech/interview-with-mit-researcher-stefania-druga--how-children-understand-artificial-intelligence.BJGZi3poLN.html) for Teller Report (2019)
+* [Artificial intelligence has to be demystified](https://www.spiegel.de/netzwelt/gadgets/kuenstliche-intelligenz-und-kinder-mit-forscherin-stefania-druga-im-interview-a-1251721.html) for Spiegel (2019) 
+* [Spotlight: Let’s ask more of AI](https://internethealthreport.org/2019/lets-ask-more-of-ai/) for Mozilla's Internet Report(2019)
+* [Should Children Form Emotional Bonds With Robots?](https://www.theatlantic.com/magazine/archive/2017/12/my-sons-first-robot/544137/), The Atlantic (2017)
+* [Growing Up with Alexa](https://www.technologyreview.com/2017/08/16/149722/growing-up-with-alexa/) MIT Technology Review (2017)
+* [Understanding Generation Alpha](https://www.wired.co.uk/article/understanding-generation-alpha) for Wired (2017)
+
+### Podcasts
+* Humanitarian AI:[ AI literacy for families](https://soundcloud.com/humanitarian-ai-today/stefania-druga-cognimates) 
+* Prof Talks: [AI Education & Smart Toy Design](https://prof-talks.com/2019/05/10/stefania-druga/)(2020)
+* Ed Tech: [Digging into Digital Skills Development](https://theedtechpodcast.com/144-digging-into-digital-skills-development/)(2019)
+* Meaningful Making: [What is AI](https://podcasts.apple.com/us/podcast/episode-13-what-is-ai-educator-edition-with-stefania-druga/id1209779054?i=1000474079116)(2019)
+* Airtalk: [They’re alive! Are smart toys changing how children interact with humans?](https://www.scpr.org/programs/airtalk/2017/11/17/60286/they-re-alive-are-smart-toys-changing-how-children/)(2017)
+* CBC Radio: [Would you let your kids play with AI robots?](https://www.cbc.ca/radio/thecurrent/the-current-for-november-27-2017-1.4418695/would-you-let-your-kids-play-with-ai-robots-1.4418700)(2017)
+
 
 ### Skills
 * **Research**: `AI Education` * `Family teachnology` * `Smart toys` * `Interaction Design for children`
@@ -132,4 +178,7 @@ Bachelor of Communication | Public Relations &amp; Communication | Polytechnic U
 * **Databases**: `MySQL` * `PostgreSQL`
 * **Languages**: `Romanian` * `English` * `French` * `Spanish` * `Italian`
 
-
+### Passions 
+* Hosting a [radio show](https://wmbr.mit.edu/)
+* Climbing and hiking [trips](https://www.strava.com/athletes/10356997)
+* Reading science fiction [books](https://www.goodreads.com/user/show/10667897-stefania)
