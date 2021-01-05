@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TileCode
-description: 
+description: App for designing, coding, and playing video games on low-cost arcade gaming handhelds.
 img: assets/img/tilecode.gif
 importance: 1
 ---
