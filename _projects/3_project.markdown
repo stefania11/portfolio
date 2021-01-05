@@ -3,6 +3,6 @@ layout: page
 title: AI Playground
 description:
 img: 
-redirect: https://unsplash.com
+redirect: ailiteracy.me
 importance: 3
 ---
