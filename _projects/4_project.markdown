@@ -3,6 +3,5 @@ layout: page
 title: Smart toys
 description:
 img:
-importance: 3
+importance: 4
 ---
-Add description

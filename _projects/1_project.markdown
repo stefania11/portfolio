@@ -5,6 +5,8 @@ description: App for designing, coding, and playing video games on low-cost arca
 img: assets/img/tilecode.gif
 importance: 1
 ---
+[Web app](https://microsoft.github.io/tilecode/tilecode.html)
+[GitHub](https://github.com/microsoft/tilecode)
 
 [Microsoft TileCode](https://www.microsoft.com/en-us/research/project/microsoft-tilecode/) is an app for designing, coding, and playing video games directly on low-cost MakeCode Arcade gaming handhelds, as well as in the web browser. With TileCode, we are using the medium of video games to explore the combination of:
 ![TileCode Components](/assets/img/tilecode_components.png)
