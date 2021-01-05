@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stefania Druga
+title: Resume
 permalink: /resume/
 description:
 nav: true
@@ -8,7 +8,12 @@ nav: true
 
  ✉ st3f@uw.edu ✆ +1 (415) 503-8944 🔗 [http://drugastefania.com/](http://drugastefania.com/)
 
-&nbsp;
+
+### Qualifications summary
+* Research on AI literacy for families.
+* Extensive experience in building programming platforms for children.
+* Teaching classes about creative learning and prototyping with AI. 
+
 
 ### Awards
 * [Jacobs Foundation Grant](https://ischool.uw.edu/news/2020/01/researchers-win-fellowship-study-new-frontier-tech-education) for AI Literacy project, 2020
@@ -17,11 +22,6 @@ nav: true
 * [LEGO Papert Fellow](https://www.media.mit.edu/posts/meet-the-2017-lego-papert-fellows/), MIT MediaLab, 2018
 * [Finalist of Ideas for Europe competition](https://blogs.ec.europa.eu/promotingenterprise/the-10-most-inspiring-ideas-from-europe-have-been-chosen/), EU, 2017
 * [Women to Watch in Science](http://www.womenatthefrontier.org/wf-spotlight-stefania-druga/), Women at the frontier, 2016
-
-<!-- ### Qualifications summary
-* Research on AI literacy for families.
-* Extensive experience in building programming platforms for children.
-* Teaching classes about creative learning and prototyping with AI. -->
 
 ### Active Projects
 * [Cognimates](https://github.com/hackidemia/cognimates-gui) : Live at [cognimates.me](http://cognimates.me)
@@ -33,7 +33,7 @@ nav: true
 * [TileCode](http://github.com/microsoft/TileCode) : Live at [https://microsoft.github.io/tilecode/](https://microsoft.github.io/tilecode/)
     - TileCode is an app for designing, coding, and playing video games directly on low-cost arcade gaming handhelds.
     - Our starting point are retro video games to be created via a set of visual rules.
-&nbsp;
+
 
 ### Education
 
@@ -54,7 +54,7 @@ Bachelor of Communication | Public Relations &amp; Communication | Polytechnic U
 * [Design Internet Research](https://wiki.communitydata.science/Internet_Research_Methods_(Winter_2020))
 * [Culture Learning and Development](https://myplan.uw.edu/course/#/courses/EDPSY503)
 * [Computer-Supported Collaborative Learning](https://ischool.uw.edu/programs/phd/curriculum/special-topics)
-&nbsp;
+
 
 ### Professional Experience
 * Creative AI Track Lead, MIT MediaLab Berlin, Berlin, Germany (Jun. 2018 – Jul. 2018)
@@ -103,7 +103,7 @@ Bachelor of Communication | Public Relations &amp; Communication | Polytechnic U
     - Conducted a final evaluation which showed that 80% of the teachers were using the new tools.
     - `http://www.pucp.edu.pe`
 
-&nbsp;
+
 ### Research Experience
 * Summer Intern, Microsoft Research (June 2020 – Sep. 2020)
     - Conducted an longitudinal study with 17 families for 5 weeks evaluating a new programming platform for kids.
@@ -117,7 +117,7 @@ Bachelor of Communication | Public Relations &amp; Communication | Polytechnic U
     - Conducted a study for the French Ministry of Education on the use of digital resources in 20 universities and engineering schools.
     - The study was published by UNIT and is now an industry standard guide in the participating universities.
     - `http://www.unit.eu/`
-&nbsp;
+
 
 ### Teaching Experience
 * [Designing Smart Toys at RISD](https://github.com/stefania11/DesignSmartToys)
@@ -125,8 +125,7 @@ Bachelor of Communication | Public Relations &amp; Communication | Polytechnic U
 * [INFO 350 Information Ethics and Policy](http://www.washington.edu/students/crscat/info.html#info350)
 * [INFO 330 Research Methods](http://www.washington.edu/students/crscat/info.html#info300") 
 
- &nbsp;
- &nbsp;
+
 ### Service
 * Chair for [IDC 2021 Conference](https://idc.acm.org/2021/)
 * Reviewer for CHI, IDC, CSCW, Fablearn conferences from 2018-Present
