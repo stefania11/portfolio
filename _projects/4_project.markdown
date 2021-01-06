@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Smart Toys Design
-description:
+description: Designing and Building Future AI Toys & Games
 img: assets/img/st_humming_box.gif
 importance: 1
 ---

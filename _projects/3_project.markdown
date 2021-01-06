@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AI Playground
-description: Playground for families to learn more about AI by playing
+description: Playground for Families to Learn about AI by Playing
 img: assets/img/aip_banner2.png
 importance: 3
 ---
