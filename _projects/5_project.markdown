@@ -6,4 +6,5 @@ img:
 importance: 5
 ---
 
-Add description
+Scratch Homophily 
+
