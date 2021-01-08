@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Homophily in Kids Coding Networks 
-description:
+title: Homophily in Kids Coding  
+description: How Algoritmic Interventions Influence Children's Interactions
 img: assets/img/homophily_banner.png
 importance: 5
 ---
@@ -16,7 +16,7 @@ In this project I aim to investigate what evidence of homophily and heterophily 
 ### Working definitions:
 
 * __Homophily__ refers to the degree to which pairs of individuals who interact are similar with respect to certain attributes, such as beliefs, values, education, social status, etc.
-* __Heterophily__ is the degree to which pairs of individuals who interact are different with respect to certain attributes \cite{rogers1970homophily}.
+* __Heterophily__ is the degree to which pairs of individuals who interact are different with respect to certain attributes.
 * __Network diversity__ in our project is defined as multidimensional heterophily measured across the following dimensions: gender, age, language of platform users. 
 * __Computational thinking__ involves three key dimensions: (1) computational concepts (i.e. events, parallelism) (2) computational practices (i.e. iterating, remixing, abstracting), and (3) computational perspectives(i.e. expressing, questioning). 
 
