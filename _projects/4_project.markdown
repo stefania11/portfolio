@@ -14,7 +14,7 @@ Inflatable Legos
 ![Ballbit](/assets/img/st_ballpit.png)
 Ballbit Race Game
 
-The Hacking Smart Toys for AI Learning was a course I designed and taught at RISD and NYU ITP. It consisted of a series of hands-on activities focused on designing and testing several smart toys, construction kits and play experiences to support youth better learn and play with AI.
+The [Hacking Smart Toys for AI Learning]((https://github.com/stefania11/HackingSmartToys) was a course I designed and taught at RISD and NYU ITP. It consisted of a series of hands-on activities focused on designing and testing several smart toys, construction kits and play experiences to support youth better learn and play with AI.
 
 ![Furby Dissection](/assets/img/st_furby.jpg)
 Dissected Furby Toy
@@ -26,7 +26,7 @@ Industrial and interaction design students got to hack existing smart toys and c
 
 Example of Cuddles Toy using a Smartphone inside a Sloth sleve.  
 
-The course will introduced students to different aspects of machine learning through play while engaging the local community of toy designers, artists, AI pioneers. Students got to design their own AI toys or construction kits which they tested in local communities (schools, libraries, museum, community centers). Final projects were displayed in a play exhibition where all communities involved throughout the course were invited to participate.
+The course introduced students to different aspects of machine learning through play while engaging the local community of toy designers, artists, AI pioneers. Students got to design their own AI toys or construction kits which they tested in local communities (schools, libraries, museum, community centers). Final projects were displayed in a play exhibition where all communities involved throughout the course were invited to participate.
 
 As a result of this course I supported my students to publish 3 papers describing their toys and design contributions:
 * [Humming Box Paper](/assets/pdf/CHI_PLAY_Humming_Box_2019.pdf)

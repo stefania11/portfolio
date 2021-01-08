@@ -5,7 +5,7 @@ description: Playground for Families to Learn about AI by Playing
 img: assets/img/aip_banner2.png
 importance: 3
 ---
-[Web app](aiplayground.me)
+[Web app](https://aiplayground.me)
 [GitHub](https://github.com/hackidemia/coraland)
 [Printouts](assets/pdf/AI_Literacy_Family_printouts.pdf)
 
