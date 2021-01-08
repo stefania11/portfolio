@@ -1,9 +1,14 @@
 ---
 layout: page
 title: Afrimakers
-description:
-img:
-importance: 6
+description: Digital Fabrication for Solving Global Challenges 
+img: assets/img/afrimakers_kid.jpg
+importance: 5
 ---
-AFRIMAKERS IS AN INITIATIVE THAT WANTS TO ENABLE AFRICAN MAKERS TO USE LOCAL KNOW-HOW AND HANDS-ON PROTOTYPING FOR SOLVING LOCAL CHALLENGES LIKE ACCESS TO CLEAN WATER, ENERGY, INFORMATION.
-DURING 4 MONTHS LAST YEAR WE KICKSTART MAKER WORKSHOPS FOCUSED ON LOCAL CHALLENGES IN 8 HUBS AROUND AFRICA (KENYA, TANZANIA, RWANDA, ZAMBIA, BOTSWANA, GHANA, NIGERIA, EGYPT).
+
+[Afrimakers](afrimakers.org) is an initiative that aims to enable African makers to use local know-how and hands-on prototyping for solving local challenges like access to clean water, energy, information.The project was kickstarted in 2016 and it started with a series of workshops on the field in 8 hubs all around Africa (Kenya, Tanzania, Rwanda, Zambia, Botswana, Ghana, Nigeria, Egypt).
+<!-- ![Afrimakers infographic](/assets/img/afrimakers_infographic.png) -->
+
+Eversince local communities have continued to develop local projects and exchange with nearby hubs. 
+
+![Afrimakers workshop](/assets/img/afrimakers_kids.jpg)

@@ -3,7 +3,7 @@ layout: page
 title: Homophily in Kids Coding  
 description: How Algoritmic Interventions Influence Children's Interactions
 img: assets/img/homophily_banner.png
-importance: 5
+importance: 6
 ---
 
 
