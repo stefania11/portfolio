@@ -7,6 +7,7 @@ importance: 6
 ---
 
 ![example of homophily](/assets/img/homophily_banner.png)
+Credit image [Adamic & Glance 2005](https://dl.acm.org/doi/10.1145/1134271.1134277)
 
 In this project I aim to investigate what evidence of homophily and heterophily we can identify when observing children's activity on an Scratch online programming platform. I specifically seek to understand how some algorithmic interventions, such as featuring remixed projects on the homepage, influence the diversity of children's interactions. I hypothesize a more diverse network could lead to an increase in platform retention and therefore to an improvement in children's programming practice.  
 
