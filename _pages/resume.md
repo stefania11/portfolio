@@ -139,9 +139,9 @@ Bachelor of Communication | Public Relations &amp; Communication | Polytechnic U
 * Board member for [AIDA](https://ai4da.com/who-we-are/meet-our-experts/), organisation using AI for social development 
 
 ### Talks 
-* Seminar on AI Education research for teacher's national webinar in France: [Why Teach and Learn AI? Crossed points of view.](https://docs.google.com/document/d/1IB7Dkn25lUK3do3c4LFvOQBb1LEbdYykIo7i2JyLaNM/edit). The event was organized by the National Department of Education in France.(2021)
+* Seminar on AI Education research [Why Teach and Learn AI?](https://docs.google.com/document/d/1IB7Dkn25lUK3do3c4LFvOQBb1LEbdYykIo7i2JyLaNM/edit) for National Department of Education in France (2021)
 * Webinar on [development of new coding platforms for children](https://www.youtube.com/watch?v=rhQ2jJGtgwM&list=PLD7HFcN7LXRcmgk4JI7yw9eWT7Sz5w1eD&index=22) with Microsoft Research(2020)
-* Panel on future of [AI education with Unesco](https://mgiep.unesco.org/article/future-of-education-artificial-intelligence-and-social-and-emotional-learning)(2020)
+* Panel on future of [AI education with Unesco](https://mgiep.unesco.org/article/future-of-education-artificial-intelligence-and-social-and-emotional-learning) (2020)
 * Speaker at [Future of childhood Summit](https://joanganzcooneycenter.org/initiative/future-of-childhood-summit/) with Google and Sesame Workshop (2020)
 * Speaker at [Applied Machine Learning Days](https://appliedmldays.org/all-time-speakers/stefania-druga), EPFL (2020) 
 * Keynote at [Digital Summit for Teachers](https://www.youtube.com/watch?v=CCZ4btFMIJ0&ab_channel=K%C3%B6rber-Stiftung) organized by Korber Foundation (2019)
