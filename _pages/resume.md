@@ -6,16 +6,18 @@ description:
 nav: true
 ---
 
- ✉ st3f@uw.edu ✆ +1 (415) 503-8944 🔗 [http://drugastefania.com/](http://drugastefania.com/)
+ ✉ st3f@uw.edu ✆ +1 (415) 503-8944 🔗 [https://stefania11.github.io/](https://stefania11.github.io/)
 
 
 ### Qualifications summary
+* Program synthesis for end-user programming. 
 * Research on AI literacy for families.
 * Extensive experience in building programming platforms for children.
 * Teaching classes about creative learning and prototyping with AI. 
 
 
 ### Awards
+* [NSF FMitF Grant](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505518)for End-User Programming project, 2021
 * [Jacobs Foundation Grant](https://ischool.uw.edu/news/2020/01/researchers-win-fellowship-study-new-frontier-tech-education) for AI Literacy project, 2020
 * [Weizenbaum Research Fellow](https://www.weizenbaum-institut.de/portrait/p/stefania-druga/) in Criticality of AI-based Systems Lab in Berlin, 2019
 * [Human in Residence Fellow](https://tisch.nyu.edu/itp/itp-people/faculty/somethings-in-residence-sirs), Google & NYU ITP, 2019.
@@ -129,14 +131,16 @@ Bachelor of Communication | Public Relations &amp; Communication | Polytechnic U
 ### Service
 * Chair for [IDC 2021 Conference](https://idc.acm.org/2021/)
 * Reviewer for CHI, IDC, CSCW, Fablearn conferences from 2018-Present
+* Research Committee Representative for [UW iSchool](https://ischool.uw.edu/) student organization
 * Volunteer with [iSchool Diversity Initiative](https://ischool.uw.edu/diversity) supporting BIPOC graduate applicants
-* Member of the [UW Computer Science Care Committee](https://www.cs.washington.edu/students/grad/gsc/care-committee)
+* Chair of the [UW Computer Science Care Committee](https://www.cs.washington.edu/students/grad/gsc/care-committee)
 * Education Board member for Unesco MGIEP
 * AI Education Committee member for [Technovation](https://www.technovation.org/team/), organisation for international AI Education for families 
 * Board member for [AIDA](https://ai4da.com/who-we-are/meet-our-experts/), organisation using AI for social development 
 
 ### Talks 
-* Webinar on [development of new coding platforms for children](https://note.microsoft.com/MSR-Webinar-TileCode-Registration-On-Demand.html?wt.mc_id=twitter_MSR-WBNR_post_v1) with Microsoft Research(2020)
+* Seminar on AI Education research for teacher's national webinar in France: [Why Teach and Learn AI? Crossed points of view.](https://docs.google.com/document/d/1IB7Dkn25lUK3do3c4LFvOQBb1LEbdYykIo7i2JyLaNM/edit). The event was organized by the National Department of Education in France.(2021)
+* Webinar on [development of new coding platforms for children](https://www.youtube.com/watch?v=rhQ2jJGtgwM&list=PLD7HFcN7LXRcmgk4JI7yw9eWT7Sz5w1eD&index=22) with Microsoft Research(2020)
 * Panel on future of [AI education with Unesco](https://mgiep.unesco.org/article/future-of-education-artificial-intelligence-and-social-and-emotional-learning)(2020)
 * Speaker at [Future of childhood Summit](https://joanganzcooneycenter.org/initiative/future-of-childhood-summit/) with Google and Sesame Workshop (2020)
 * Speaker at [Applied Machine Learning Days](https://appliedmldays.org/all-time-speakers/stefania-druga), EPFL (2020) 
@@ -144,9 +148,10 @@ Bachelor of Communication | Public Relations &amp; Communication | Polytechnic U
 * Speaker at Teachers Colledge [AI Education Conference](https://www.tc.columbia.edu/aiconference/)(2019)
 * Keynote at [Pydata Conference](https://www.youtube.com/watch?v=JJpY-5EPAF0&ab_channel=PyData)(2019)
 * Keynote at [Libre Learn Lab Conference](http://www.librelearnlab.org/conference/keynote-speakers)(2018)
-* Guest [Cognimates tutorial on the Coding Train](https://www.youtube.com/watch?v=kg2G26TWjY4&ab_channel=TheCodingTrain) (2018)
+* Guest [Cognimates tutorial on the Coding Train](https://www.youtube.com/watch?v=kg2G26TWjY4&ab_channel=TheCodingTrain)(2018)
 
 ### Press 
+* [DW TV Documentary: How artificial intelligence is changing our society](https://www.youtube.com/watch?v=-ePZ7OdY-Dw&t=2224s) from DW German Public Broadcast (2020)
 * [UW researchers receive grant to explore childhood AI literacy](http://www.dailyuw.com/science/article_f5eac95a-5ffa-11ea-9ae2-fbc1f7840c87.html) for UW Daily (2020)
 * [How is AI upgrading playtime?](https://www.canvas8.com/content/2020/03/06/stefania-druga-thought-leader.html) for Canvas8 (2020)
 * [The Hard Fun of Designing Alternatives to Smart Toys](https://medium.com/ml5js/the-hard-fun-of-designing-alternatives-to-smart-toys-dd72da1c6de8) for Processing Foundation (2019)
